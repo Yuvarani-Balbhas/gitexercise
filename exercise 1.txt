@@ -1,0 +1,5 @@
+list of technology
+
+React 
+React native
+react.js
