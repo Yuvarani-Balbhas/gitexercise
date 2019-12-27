@@ -15,3 +15,6 @@ android/app
 react-native run-android
 
 Check and run it
+
+Troubleshooting steps
+added Node modules>blacklist file
