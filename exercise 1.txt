@@ -3,3 +3,15 @@ list of technology
 React 
 React native
 react.js
+
+added 
+springboot
+java 8
+
+Build and clone
+
+yarn install
+android/app
+react-native run-android
+
+Check and run it
