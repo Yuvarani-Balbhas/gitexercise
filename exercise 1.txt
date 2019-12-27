@@ -9,3 +9,7 @@ springboot
 java 8
 
 Build and clone
+
+yarn install
+android/app
+react-native run-android
