@@ -15,3 +15,6 @@ android/app
 react-native run-android
 
 Check and run it
+
+while running we face some issue
+developement server could not connect
